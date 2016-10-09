@@ -1,0 +1,10 @@
+Package: com.theonlygermanguy.testpackage
+Name: Test Package
+Version: 1.0
+Architecture: iphoneos-arm
+Description: This is a test package.
+Depiction: http://theonlygermanguy.github.io/repo/depictions/Test/index.html
+Homepage: http://theonlygermanguy.github.io/repo/
+Maintainer: TheonlyGermanGuy <theonlygermanguy@gmx.de>
+Author: TheonlyGermanGuy <theonlygermanguy@gmx.de>
+Section: Utilities
