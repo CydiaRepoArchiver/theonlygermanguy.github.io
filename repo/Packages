@@ -1,0 +1,14 @@
+Package: com.theonlygermanguy.testpackage
+Version: 1.0
+Section: Utilities
+Maintainer: TheonlyGermanGuy <theonlygermanguy@gmx.de>
+Architecture: iphoneos-arm
+Filename: ./Test.deb
+Size: 760
+MD5sum: ff65efe50e1c6dd81aa73d2edea1b579
+Description: This is a test package.
+Name: Test Package
+Author: TheonlyGermanGuy <theonlygermanguy@gmx.de>
+Homepage: http://theonlygermanguy.github.io/repo/
+Depiction: http://theonlygermanguy.github.io/repo/depictions/Test/index.html
+
