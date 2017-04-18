@@ -1,28 +1,13 @@
-Package: com.theonlygermanguy.cf2colors
+Package: de.togg.superslam
 Version: 0.0.1
 Section: Tweaks
-Maintainer: TheonlyGermanGuy
+Maintainer: TheOnlyGermanGuy
 Depends: mobilesubstrate
 Architecture: iphoneos-arm
-Filename: .//com.theonlygermanguy.cf2colors_0.0.1_iphoneos-arm.deb
-Size: 4510
-Installed-Size: 120
-MD5sum: b6c96642802aa3580cff6e225b9e10b9
-Description: An awesome MobileSubstrate tweak!
-Name: CF2Colors
-Author: TheonlyGermanGuy
-
-Package: com.theonlygermanguy.cf2colors
-Version: 0.0.2
-Section: Tweaks
-Maintainer: TheonlyGermanGuy
-Depends: mobilesubstrate
-Architecture: iphoneos-arm
-Filename: .//com.theonlygermanguy.cf2colors_0.0.2_iphoneos-arm.deb
-Size: 4510
-Installed-Size: 120
-MD5sum: b6c96642802aa3580cff6e225b9e10b9
-Description: An awesome MobileSubstrate tweak!
-Name: CF2Colors
-Author: TheonlyGermanGuy
+Filename: .//de.togg.superslam_0.0.1_iphoneos-arm.deb
+Size: 1182732
+MD5sum: 0ba9e2ab09dfc20440e2630fd2589fcf
+Description: Make gif appear with activator!
+Name: SuperGIF
+Author: TheOnlyGermanGuy
 
