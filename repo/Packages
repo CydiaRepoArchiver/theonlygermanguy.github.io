@@ -2,11 +2,12 @@ Package: de.togg.superslam
 Version: 0.0.1
 Section: Tweaks
 Maintainer: TheOnlyGermanGuy
-Depends: mobilesubstrate
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
 Filename: .//de.togg.superslam_0.0.1_iphoneos-arm.deb
-Size: 1182732
-MD5sum: 0ba9e2ab09dfc20440e2630fd2589fcf
+Size: 1176306
+Installed-Size: 1340
+MD5sum: f5c2555b65444f67b68411a0c426ffd5
 Description: Make gif appear with activator!
 Name: SuperGIF
 Author: TheOnlyGermanGuy
