@@ -1,3 +1,28 @@
+Package: de.togg.libfragmentzip
+Version: 2.0
+Section: Development
+Maintainer: TheOnlyGermanGuy
+Depends: curl
+Architecture: iphoneos-arm
+Filename: .//de.togg.fragmentzip_1.0.0_iphoneos-arm.deb
+Size: 6310
+MD5sum: 4de7836967d003e23348ca65649c94d3
+Description: support for downloading partial zip files
+Name: libfragmentzip
+Author: TheOnlyGermanGuy
+
+Package: de.togg.libplist
+Version: 2.0
+Section: Development
+Maintainer: togg
+Architecture: iphoneos-arm
+Filename: .//de.togg.libplist_2.0.0_iphoneos-arm.deb
+Size: 45080
+MD5sum: 29af0538e177de5d01b84a7c7f1b00db
+Description: support for working with Property Lists
+Name: libplist2
+Author: togg
+
 Package: de.togg.superslam
 Version: 0.0.1
 Section: Tweaks
@@ -11,4 +36,16 @@ MD5sum: f5c2555b65444f67b68411a0c426ffd5
 Description: Make gif appear with activator!
 Name: SuperGIF
 Author: TheOnlyGermanGuy
+
+Package: de.togg.tsschecker
+Version: 2.09
+Section: Utilities
+Maintainer: TheOnlyGermanGuy
+Depends: curl, de.togg.libplist, de.togg.libfragmentzip
+Architecture: darwin-arm
+Filename: .//de.togg.tsschecker_2.0.9_iphoneos-arm.deb
+Size: 658
+MD5sum: 1ad6e3eda02859f5e52031cddbffa22f
+Description: Save tss requests in shsh2 format
+Name: tsschecker
 
