@@ -44,8 +44,8 @@ Maintainer: TheOnlyGermanGuy
 Depends: curl, de.togg.libplist, de.togg.libfragmentzip
 Architecture: iphoneos-arm
 Filename: .//de.togg.tsschecker_2.0.9_iphoneos-arm.deb
-Size: 1140
-MD5sum: 6b267149035c4585a7e4e2a68739c27f
+Size: 30258
+MD5sum: 3773740ea39434153f593c661ee62df8
 Description: Save tss requests in shsh2 format
 Name: tsschecker
 
