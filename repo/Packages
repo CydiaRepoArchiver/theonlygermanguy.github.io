@@ -15,14 +15,14 @@ Author: TheOnlyGermanGuy
 Name: libfragmentzip
 
 Package: de.togg.libplist
-Version: 2.0
+Version: 2.0.1
 Architecture: iphoneos-arm
 Maintainer: togg
-Filename: ./de.togg.libplist_2.0.0_iphoneos-arm.deb
-Size: 45080
-MD5sum: 29af0538e177de5d01b84a7c7f1b00db
-SHA1: e69b58328d2c733e502b417c7d3fe740f7de1653
-SHA256: d66799df77b5952b5b3bc1abb960ab0f2095d6bc1190e38249db2997f3988a48
+Filename: ./de.togg.libplist_2.0.1_iphoneos-arm.deb
+Size: 86094
+MD5sum: 09861a6a7ce4ea0a5136882d80a9facb
+SHA1: 77bffbe1181424b78e993adc41d6dbcb5d000298
+SHA256: e6d8d1943a5b4ddfca567ca0b2f08c1e11139228d0ab76646e74348f955d3d7e
 Section: Development
 Description: support for working with Property Lists
 Tag: role::developer, purpose::library
