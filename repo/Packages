@@ -1,51 +1,61 @@
 Package: de.togg.libfragmentzip
-Version: 2.0
-Section: Development
+Version: 2.0.1
+Architecture: iphoneos-arm
 Maintainer: TheOnlyGermanGuy
 Depends: curl
-Architecture: iphoneos-arm
-Filename: .//de.togg.fragmentzip_1.0.0_iphoneos-arm.deb
-Size: 6310
-MD5sum: 4de7836967d003e23348ca65649c94d3
+Filename: ./de.togg.fragmentzip_1.0.0_iphoneos-arm.deb
+Size: 6926
+MD5sum: 6071ef173bdb2e29dbe8aec9bc9cba27
+SHA1: 758cc917350ee90de8bfda24df0e23e42395eba2
+SHA256: e3f6d1285fa62faba54b5048f900ee631245029577f216d85669629dc83e3bf0
+Section: Development
 Description: support for downloading partial zip files
-Name: libfragmentzip
+Tag: role::developer, purpose::library
 Author: TheOnlyGermanGuy
+Name: libfragmentzip
 
 Package: de.togg.libplist
 Version: 2.0
-Section: Development
-Maintainer: togg
 Architecture: iphoneos-arm
-Filename: .//de.togg.libplist_2.0.0_iphoneos-arm.deb
+Maintainer: togg
+Filename: ./de.togg.libplist_2.0.0_iphoneos-arm.deb
 Size: 45080
 MD5sum: 29af0538e177de5d01b84a7c7f1b00db
+SHA1: e69b58328d2c733e502b417c7d3fe740f7de1653
+SHA256: d66799df77b5952b5b3bc1abb960ab0f2095d6bc1190e38249db2997f3988a48
+Section: Development
 Description: support for working with Property Lists
-Name: libplist2
+Tag: role::developer, purpose::library
 Author: togg
+Name: libplist2
 
 Package: de.togg.superslam
 Version: 0.0.1
-Section: Tweaks
-Maintainer: TheOnlyGermanGuy
-Depends: mobilesubstrate, org.thebigboss.libcolorpicker
 Architecture: iphoneos-arm
-Filename: .//de.togg.superslam_0.0.1_iphoneos-arm.deb
-Size: 1176306
+Maintainer: TheOnlyGermanGuy
 Installed-Size: 1340
+Depends: mobilesubstrate, org.thebigboss.libcolorpicker
+Filename: ./de.togg.superslam_0.0.1_iphoneos-arm.deb
+Size: 1176306
 MD5sum: f5c2555b65444f67b68411a0c426ffd5
+SHA1: 5964087ec32f5f58649489e4edbf124d7c8372e8
+SHA256: f4ac2d85e2d297e97517091317c517e7be8473b50077bcbd03bd192c5025712e
+Section: Tweaks
 Description: Make gif appear with activator!
-Name: SuperGIF
 Author: TheOnlyGermanGuy
+Name: SuperGIF
 
 Package: de.togg.tsschecker
 Version: 2.09
-Section: Utilities
+Architecture: iphoneos-arm
 Maintainer: TheOnlyGermanGuy
 Depends: curl, de.togg.libplist, de.togg.libfragmentzip
-Architecture: iphoneos-arm
-Filename: .//de.togg.tsschecker_2.0.9_iphoneos-arm.deb
+Filename: ./de.togg.tsschecker_2.0.9_iphoneos-arm.deb
 Size: 30258
 MD5sum: 3773740ea39434153f593c661ee62df8
+SHA1: 5d6a38b41913d47c22ff14288693f7c4605d8113
+SHA256: bb9e3d77fd04151a689a1e9858575d8a86bc44a3f37c330c0d59f564c70483a2
+Section: Utilities
 Description: Save tss requests in shsh2 format
 Name: tsschecker
 
