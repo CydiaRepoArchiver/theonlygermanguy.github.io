@@ -59,3 +59,19 @@ Section: Utilities
 Description: Save tss requests in shsh2 format
 Name: tsschecker
 
+Package: de.togg.wa
+Version: 0.0.1
+Architecture: iphoneos-arm
+Maintainer: TheonlyGermanGuy
+Installed-Size: 68
+Depends: mobilesubstrate
+Filename: ./de.togg.wa_0.0.1_iphoneos-arm.deb
+Size: 3826
+MD5sum: add36059a7e9762a6d90767b4d6e517c
+SHA1: 0f134e90296df40e45430c3581a783e1af44344d
+SHA256: 6acef778f1ab1d5da0306b8138901f1aa7970868763665e504203b800914e1b3
+Section: Tweaks
+Description: An Alert shows up before making a WhatsApp Call!
+Author: TheonlyGermanGuy
+Name: WhatsApp Confirm Call
+
